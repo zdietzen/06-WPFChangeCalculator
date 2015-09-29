@@ -1,0 +1,14 @@
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\bin\Debug\06-WPFChangeCalculator.exe.config
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator.csprojResolveAssemblyReference.cache
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\MainWindow.g.cs
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\App.g.cs
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator_MarkupCompile.cache
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator_MarkupCompile.lref
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\bin\Debug\06-WPFChangeCalculator.exe
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\bin\Debug\06-WPFChangeCalculator.pdb
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\MainWindow.baml
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator.g.resources
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\_06_WPFChangeCalculator.Properties.Resources.resources
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator.csproj.GenerateResource.Cache
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator.exe
+C:\Dev\Github\06-WPFChangeCalculator\06-WPFChangeCalculator\obj\Debug\06-WPFChangeCalculator.pdb
